@@ -1,10 +1,15 @@
 # Global-COVID-Vaccine-Tracker
 
-## Introduction
+## Dashboard Overview
+
+
+<img width="1051" alt="Screenshot 2023-04-21 112409" src="https://user-images.githubusercontent.com/94572320/233715694-6aafeed7-db6b-4dc6-b6f9-a1e962a386da.png">
+
+### Introduction
 
 The COVID-19 pandemic has impacted every corner of the world, with millions of people affected and lives lost. The development and distribution of vaccines have been crucial in the fight against the virus. However, keeping track of vaccination progress across the globe can be a challenging task, with different countries following different protocols and reporting methods. The Global COVID Vaccine Tracker aims to simplify the process by providing an easy-to-use, informative dashboard that tracks COVID-19 vaccination progress across the world.
 
-## Project Goals
+### Project Goals
 
 The primary objective of this project is to create an interactive dashboard that presents real-time data on COVID-19 vaccination progress around the world. The dashboard aims to be user-friendly, visually appealing, and informative, providing users with an overview of vaccination efforts globally. Some specific goals for the project include:
 
@@ -14,12 +19,12 @@ The primary objective of this project is to create an interactive dashboard that
 * Providing users with context by including information on vaccination policies, eligibility criteria, and vaccine availability in different countries.
 * Educating users on the importance of vaccination and answering frequently asked questions about COVID-19 vaccines.
 
-## Data Source
+### Data Source
 
 The dashboard gathers data from official sources, including governments and health ministries worldwide. The data will be updated regularly, with the latest information on vaccine administration and distribution made available on a daily basis. The population estimates for per-capita metrics are based on the United Nations World Population Prospects, while the income groups are based on the World Bank classification.
 
 
-## Dashboard Features
+### Dashboard Features
 
 The Global COVID Vaccine Tracker dashboard is divided into several sections, each providing different metrics and visualizations to aid in understanding the current state of COVID-19 vaccination progress around the world. Some of the key features of the dashboard include:
 
