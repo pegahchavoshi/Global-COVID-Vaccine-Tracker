@@ -2,15 +2,22 @@
 
 ## Introduction
 
-The COVID-19 pandemic has affected people's lives all around the world. As the world began to fight back, one of the most important steps was the development of vaccines. Vaccines offer protection against the virus and reduce the spread of the disease. However, keeping track of vaccination progress across the world can be difficult. That's why I have created the Global COVID Vaccine Tracker.
+The COVID-19 pandemic has impacted every corner of the world, with millions of people affected and lives lost. The development and distribution of vaccines have been crucial in the fight against the virus. However, keeping track of vaccination progress across the globe can be a challenging task, with different countries following different protocols and reporting methods. The Global COVID Vaccine Tracker aims to simplify the process by providing an easy-to-use, informative dashboard that tracks COVID-19 vaccination progress across the world.
 
 ## Project Goals
 
-The goal of my project is to create a user-friendly and informative dashboard that tracks COVID-19 vaccination progress across the world. The dashboard displays data on the number of vaccine doses administered, the number of people who have received at least one dose, and the percentage of the population that is fully vaccinated.
+The primary objective of this project is to create an interactive dashboard that presents real-time data on COVID-19 vaccination progress around the world. The dashboard aims to be user-friendly, visually appealing, and informative, providing users with an overview of vaccination efforts globally. Some specific goals for the project include:
+
+* Gathering reliable, up-to-date data on vaccine distribution and administration from official sources such as governments and health ministries worldwide.
+* Creating an intuitive, interactive interface that allows users to explore vaccination progress across different regions, countries, and demographic groups.
+* Visualizing vaccination data in charts, graphs, and maps to facilitate easier comprehension and analysis.
+* Providing users with context by including information on vaccination policies, eligibility criteria, and vaccine availability in different countries.
+* Educating users on the importance of vaccination and answering frequently asked questions about COVID-19 vaccines.
 
 ## Data Source
 
-The dashboard gathers data from official sources, including governments and health ministries worldwide. The data is updated on a daily basis, with the latest update available 19 hours ago. The population estimates for per-capita metrics are based on the United Nations World Population Prospects, while the income groups are based on the World Bank classification.
+The dashboard gathers data from official sources, including governments and health ministries worldwide. The data will be updated regularly, with the latest information on vaccine administration and distribution made available on a daily basis. The population estimates for per-capita metrics are based on the United Nations World Population Prospects, while the income groups are based on the World Bank classification.
+
 
 ## Dashboard Features
 
@@ -22,6 +29,8 @@ Interactive world map: Provides an overview of the vaccination status in differe
 
 
 Overview charts: Presents global vaccination metrics, such as the total number of vaccine doses administered and the number of doses administered daily.
+
+<img width="1472" alt="Screenshot 2023-04-20 165234" src="https://user-images.githubusercontent.com/94572320/233714386-5dd97989-fd7e-488e-b893-16ce331b0506.png">
 
 
 
