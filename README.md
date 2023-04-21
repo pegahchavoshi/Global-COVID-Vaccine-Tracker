@@ -28,22 +28,27 @@ The dashboard gathers data from official sources, including governments and heal
 
 The Global COVID Vaccine Tracker dashboard is divided into several sections, each providing different metrics and visualizations to aid in understanding the current state of COVID-19 vaccination progress around the world. Some of the key features of the dashboard include:
 
-Interactive world map: Provides an overview of the vaccination status in different countries, color-coded based on the percentage of the population that has received at least one dose of the vaccine.
+Interactive world map provides an overview of the vaccination status in different countries, color-coded based on the percentage of the population that has received at least one dose of the vaccine.
 
 ![Vaccination Per Hundred](https://user-images.githubusercontent.com/94572320/233524302-b84b926e-aa15-493d-a345-0ebca25c5d36.png)
 
 
-Overview charts: Presents global vaccination metrics, such as the total number of vaccine doses administered and the number of doses administered daily.
+Overview charts presents global vaccination metrics, such as the total number of vaccine doses administered and the number of doses administered daily.
 
 <img width="1472" alt="Screenshot 2023-04-20 165234" src="https://user-images.githubusercontent.com/94572320/233714386-5dd97989-fd7e-488e-b893-16ce331b0506.png">
 
 
-Country-specific metrics: Allows users to explore vaccination progress in individual countries, with information on the percentage of the population vaccinated, the number of doses administered, and the type of vaccine used.
+Country-specific metrics allows users to explore vaccination progress in individual countries, with information on the percentage of the population vaccinated, the number of doses administered, and the type of vaccine used.
 
 <img width="121" alt="Screenshot 2023-04-21 120455" src="https://user-images.githubusercontent.com/94572320/233715306-f8338a1c-cfb8-432d-a035-6e77c7f728e0.png">
 
 
 <img width="119" alt="Screenshot 2023-04-21 120632" src="https://user-images.githubusercontent.com/94572320/233715413-2ef04177-0a1a-47f6-9fe5-6d6df45b5670.png">
+
+
+In addition to the information provided earlier, the Global COVID Vaccine Tracker dashboard also includes a scatter plot visualizing the relationship between COVID-19 vaccine administration and the Gross Domestic Product (GDP) per capita of each country. The scatter plot is intended to provide insight into how a country's economic development may be related to its COVID-19 vaccine administration.
+
+<img width="602" alt="Screenshot 2023-04-21 121855" src="https://user-images.githubusercontent.com/94572320/233717492-98019021-a4c0-49a0-8f98-a1b1f0318e20.png">
 
 
 Vaccination policies: Provides information on the vaccination policies in different countries, including the eligibility criteria and vaccine availability.
