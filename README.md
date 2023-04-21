@@ -30,9 +30,8 @@ The Global COVID Vaccine Tracker dashboard is divided into several sections, eac
 
 Interactive world map provides an overview of the vaccination status in different countries, color-coded based on the percentage of the population that has received at least one dose of the vaccine.
 
-<p align="center">
-  ![Vaccination Per Hundred](https://user-images.githubusercontent.com/94572320/233719495-5ac6f581-4f9a-4b15-b9e3-0f247da5208b.png)
-</p>
+![Vaccination Per Hundred](https://user-images.githubusercontent.com/94572320/233719641-0dbfe186-35e7-40d1-8a20-17fc56562345.png)
+
 
 Overview charts presents global vaccination metrics, such as the total number of vaccine doses administered and the number of doses administered daily.
 
