@@ -23,7 +23,7 @@ Interactive world map: Provides an overview of the vaccination status in differe
 
 Overview charts: Presents global vaccination metrics, such as the total number of vaccine doses administered and the number of doses administered daily.
 
-![Vacc vs Fully Vacc per Location](https://user-images.githubusercontent.com/94572320/233524465-ee176a01-a74b-413f-b1c7-3d8b311002d9.png)
+
 
 
 Country-specific metrics: Allows users to explore vaccination progress in individual countries, with information on the percentage of the population vaccinated, the number of doses administered, and the type of vaccine used.
