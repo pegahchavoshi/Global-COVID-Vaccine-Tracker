@@ -12,7 +12,7 @@ The goal of my project is to create a user-friendly and informative dashboard th
 
 The dashboard gathers data from official sources, including governments and health ministries worldwide. The data is updated on a daily basis, with the latest update available 19 hours ago. The population estimates for per-capita metrics are based on the United Nations World Population Prospects, while the income groups are based on the World Bank classification.
 
-## Dashboard Features:
+## Dashboard Features
 
 The Global COVID Vaccine Tracker dashboard is divided into several sections, each providing different metrics and visualizations to aid in understanding the current state of COVID-19 vaccination progress around the world. Some of the key features of the dashboard include:
 
@@ -22,6 +22,10 @@ Interactive world map: Provides an overview of the vaccination status in differe
 
 
 Overview charts: Presents global vaccination metrics, such as the total number of vaccine doses administered and the number of doses administered daily.
+
+![Vacc vs Fully Vacc per Location](https://user-images.githubusercontent.com/94572320/233524465-ee176a01-a74b-413f-b1c7-3d8b311002d9.png)
+
+
 Country-specific metrics: Allows users to explore vaccination progress in individual countries, with information on the percentage of the population vaccinated, the number of doses administered, and the type of vaccine used.
 Vaccination policies: Provides information on the vaccination policies in different countries, including the eligibility criteria and vaccine availability.
 Frequently asked questions: Answers to common questions about COVID-19 vaccines, such as their safety and efficacy, are also included in the dashboard.##
