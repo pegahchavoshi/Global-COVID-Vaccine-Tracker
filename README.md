@@ -33,13 +33,13 @@ Overview charts: Presents global vaccination metrics, such as the total number o
 <img width="1472" alt="Screenshot 2023-04-20 165234" src="https://user-images.githubusercontent.com/94572320/233714386-5dd97989-fd7e-488e-b893-16ce331b0506.png">
 
 
-
-
-<img width="503" alt="Screenshot 2023-04-21 120137" src="https://user-images.githubusercontent.com/94572320/233714679-4f167f39-60b8-4344-ab2f-af92abfaf08b.png">
-
-
-
-
 Country-specific metrics: Allows users to explore vaccination progress in individual countries, with information on the percentage of the population vaccinated, the number of doses administered, and the type of vaccine used.
+
+<img width="121" alt="Screenshot 2023-04-21 120455" src="https://user-images.githubusercontent.com/94572320/233715306-f8338a1c-cfb8-432d-a035-6e77c7f728e0.png">
+
+
+<img width="119" alt="Screenshot 2023-04-21 120632" src="https://user-images.githubusercontent.com/94572320/233715413-2ef04177-0a1a-47f6-9fe5-6d6df45b5670.png">
+
+
 Vaccination policies: Provides information on the vaccination policies in different countries, including the eligibility criteria and vaccine availability.
-Frequently asked questions: Answers to common questions about COVID-19 vaccines, such as their safety and efficacy, are also included in the dashboard.##
+Frequently asked questions: Answers to common questions about COVID-19 vaccines, such as their safety and efficacy, are also included in the dashboard.
