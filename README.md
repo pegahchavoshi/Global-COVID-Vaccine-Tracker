@@ -42,6 +42,7 @@ Overview charts presents global vaccination metrics, such as the total number of
 
 Country-specific metrics allows users to explore vaccination progress in individual countries, with information on the percentage of the population vaccinated, the number of doses administered, and the type of vaccine used.
 
+<p align="center">
 <img width="121" alt="Screenshot 2023-04-21 120455" src="https://user-images.githubusercontent.com/94572320/233715306-f8338a1c-cfb8-432d-a035-6e77c7f728e0.png">
 </p>
 <p align="center">
@@ -54,5 +55,11 @@ In addition to the information provided earlier, the Global COVID Vaccine Tracke
 <img width="602" alt="Screenshot 2023-04-21 121855" src="https://user-images.githubusercontent.com/94572320/233717492-98019021-a4c0-49a0-8f98-a1b1f0318e20.png">
 </p>
 
-Vaccination policies: Provides information on the vaccination policies in different countries, including the eligibility criteria and vaccine availability.
-Frequently asked questions: Answers to common questions about COVID-19 vaccines, such as their safety and efficacy, are also included in the dashboard.
+### Conclusion
+
+I created the Global COVID Vaccine Tracker project, which aims to provide a user-friendly and informative dashboard to track COVID-19 vaccination progress around the world. By gathering reliable data from official sources and presenting it in an intuitive and interactive format, the project helps individuals, healthcare professionals, and policymakers stay informed about the global vaccination effort. With the ongoing fight against the COVID-19 pandemic, it is more important than ever to promote vaccination efforts and work towards a healthier and safer world. I hope that this project will contribute to these efforts and make a positive impact in the fight against COVID-19. 
+
+
+In addition, the project's use of various visualizations, such as the interactive world map and scatter plots, allow for a deeper understanding of the vaccination progress and its correlation with other factors such as GDP. The inclusion of frequently asked questions about COVID-19 vaccines also helps address common concerns and promote vaccine education.
+
+Overall, I believe that the this project has the potential to make a difference in the ongoing battle against COVID-19. With the help of this tool, we can stay informed, promote vaccination efforts, and work towards a healthier and safer world for all.
