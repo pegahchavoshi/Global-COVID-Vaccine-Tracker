@@ -39,7 +39,7 @@ OThe overview chart presents global vaccination metrics, such as the total numbe
 <img width="1472" alt="Screenshot 2023-04-20 165234" src="https://user-images.githubusercontent.com/94572320/233714386-5dd97989-fd7e-488e-b893-16ce331b0506.png">
 </p>
 
-Country-specific metrics allows users to explore vaccination progress in individual countries, with information on the percentage of the population vaccinated, the number of doses administered, and the type of vaccine used.
+Country-specific metrics allow users to explore vaccination progress in individual countries, with information on the percentage of the population vaccinated, the number of doses administered, and the type of vaccine used.
 
 <p align="center">
 <img width="121" alt="Screenshot 2023-04-21 120455" src="https://user-images.githubusercontent.com/94572320/233715306-f8338a1c-cfb8-432d-a035-6e77c7f728e0.png">
@@ -48,7 +48,7 @@ Country-specific metrics allows users to explore vaccination progress in individ
 <img width="119" alt="Screenshot 2023-04-21 120632" src="https://user-images.githubusercontent.com/94572320/233715413-2ef04177-0a1a-47f6-9fe5-6d6df45b5670.png">
 </p>
 
-In addition to the information provided earlier, the Global COVID Vaccine Tracker dashboard also includes a scatter plot visualizing the relationship between COVID-19 vaccine administration and the Gross Domestic Product (GDP) per capita of each country. The scatter plot is intended to provide insight into how a country's economic development may be related to its COVID-19 vaccine administration.
+In addition to the information provided earlier, the Global COVID Vaccine Tracker dashboard also includes a scatter plot visualizing the relationship between the COVID-19 vaccine administration and the Gross Domestic Product (GDP) per capita of each country. The scatter plot is intended to provide insight into how a country's economic development may be related to its COVID-19 vaccine administration.
 
 <p align="center">
 <img width="602" alt="Screenshot 2023-04-21 121855" src="https://user-images.githubusercontent.com/94572320/233717492-98019021-a4c0-49a0-8f98-a1b1f0318e20.png">
@@ -61,4 +61,4 @@ I created the Global COVID Vaccine Tracker project, which aims to provide a user
 
 In addition, the project's use of various visualizations, such as the interactive world map and scatter plots, allow for a deeper understanding of the vaccination progress and its correlation with other factors such as GDP. The inclusion of frequently asked questions about COVID-19 vaccines also helps address common concerns and promote vaccine education.
 
-Overall, I believe that the this project has the potential to make a difference in the ongoing battle against COVID-19. With the help of this tool, we can stay informed, promote vaccination efforts, and work towards a healthier and safer world for all.
+Overall, I believe that this project has the potential to make a difference in the ongoing battle against COVID-19. With the help of this tool, we can stay informed, promote vaccination efforts, and work towards a healthier and safer world for all.
