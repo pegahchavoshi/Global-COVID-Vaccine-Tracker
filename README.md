@@ -28,12 +28,12 @@ The dashboard gathers data from official sources, including governments and heal
 
 The Global COVID Vaccine Tracker dashboard is divided into several sections, each providing different metrics and visualizations to aid in understanding the current state of COVID-19 vaccination progress around the world. Some of the key features of the dashboard include:
 
-Interactive world map provides an overview of the vaccination status in different countries, color-coded based on the percentage of the population that has received at least one dose of the vaccine.
+The interactive world map provides an overview of the vaccination status in different countries, color-coded based on the percentage of the population that has received at least one dose of the vaccine.
 
 ![Vaccination Per Hundred](https://user-images.githubusercontent.com/94572320/233719641-0dbfe186-35e7-40d1-8a20-17fc56562345.png)
 
 
-Overview charts presents global vaccination metrics, such as the total number of vaccine doses administered and the number of doses administered daily.
+OThe overview chart presents global vaccination metrics, such as the total number of vaccine doses administered and the number of doses administered daily.
 
 <p align="center">
 <img width="1472" alt="Screenshot 2023-04-20 165234" src="https://user-images.githubusercontent.com/94572320/233714386-5dd97989-fd7e-488e-b893-16ce331b0506.png">
